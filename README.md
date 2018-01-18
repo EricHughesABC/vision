@@ -1,7 +1,7 @@
 # vision
 T2 fitting of MRI CPMG muscle images
 
-The python notebook contains the function used to fit MRI data to a muscle water/fat model based on the work of Azzabo u et al.(1)
+The python notebook contains the function used to fit MRI data to a muscle water/fat model based on the work of Azzabou et al.(1)
 
 The environment.yml file contains the conda environment that was used to run the notebook
 
