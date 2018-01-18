@@ -9,4 +9,5 @@ A python environment based on this file can be created using the following comma
 
 conda py36 create -f environment.yml
 
+---
     1.  Validation of a Generic Approach to Muscle Water T2 Determination at 3T in Fat-Infiltrated Skeletal Muscle.  Noura Azzabou, P Paulo Loureiro de Sousa, Ericky Caldas, Pierre G. Carlier, JOURNAL OF MAGNETIC RESONANCE IMAGING 41:645–653 (2015)
