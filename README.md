@@ -1,5 +1,5 @@
 # vision
-T2 fitting of MRI CPMG muscle images
+T<sub>2</sub> fitting of MRI CPMG muscle images
 
 The python notebook contains the function used to fit MRI data to a muscle water/fat model based on the work of Azzabou et al.<sup>1</sup>
 
